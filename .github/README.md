@@ -3,7 +3,7 @@
 </p>
 
 ### 🤖 STRING SESSION BOT
-  <a href="https://github.com/Rajpomane"><img alt="Website" src="https://img.shields.io/badge/丂卩ㄚᗪ乇尺-red"></a>
+  <a href="https://github.com/Rajpomane"><img alt="Website" src="https://img.shields.io/badge/𝐈𝛕ᷟ͢𝚣⃪ꙴ ⋆‌⃝⁣🥵🖤Hᴀᴄᴋᴇʀ Hᴇᴀʀᴛ❤️⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟𓆩᪵𓆪 ⏤͟͟͞➖⃟🥀-red"></a>
  
 [![Stars](https://img.shields.io/github/stars/Spydyrkt/StringSession?style=social)](https://github.com/Rajpomane/StringSession/stargazers)
   [![Forks](https://img.shields.io/github/forks/Spydyrkt/StringSession?style=social)](https://github.com/Rajpomane/StringSession/fork)
@@ -25,7 +25,7 @@
 
 ### 🚀 DEPLOY TO HEROKU
   
-  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Spydyrkt/StringSession"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Rajpomane"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
@@ -47,5 +47,5 @@ Atleast Give A Star and Fork The Repo 🖤
 ## 💖 CREDITS
 - » [https://github.com/Rajpomane)
 - » [https://github.com/Rajpomane)
-- » [Pyrogram Devs](https://github.com/pyrogram) for [Pyrogram](https://github.com/pyrogram/pyrogram)
-- » [LonamiWebs](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
+- » [Pyrogram Devs](https://github.com/Rajpomane) for [Pyrogram](https://github.com/Rajpomane)
+- » [LonamiWebs](https://github.com/Rajpomane) for [Telethon](https://github.com/Rajpomane)
