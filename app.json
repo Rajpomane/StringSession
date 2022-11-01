@@ -1,7 +1,7 @@
 {
   "name": "Strings-Sessions-Generator",
   "description": "A Telegram Bot to generate Telethon and Pyrogram String Sessions.",
-  "logo": "https://te.legra.ph/file/2a001da0da57f3ccef26b.jpg",
+  "logo": "https://telegra.ph/file/a23e56ed4af0ed92d62c1.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/Spydyrkt/StringSession",
+  "repository": "https://github.com/Rajpomane/StringSession",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -35,22 +35,22 @@
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
       "required": true,
-      "value": "7449299"
+      "value": "5506149118"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org/apps.",
       "required": true,
-      "value": "e0d2656f669092faaf59579dd2b00314"
+      "value": "2f8991a7d2a054974331286af3ae4d8b"
     },
     "OWNER_ID": {
       "description": "Telegram id of the person who will known as owner of the bot.",
       "required": true,
-      "value": "5324352045"
+      "value": "R_O_Y_A_L_R_A_J_P_U_T_0_7"
     },
     "MUST_JOIN": {
-      "description": "Username of a group or channel for which you want to set force sub.(without @)",
+      "description": "Username of a group or channel for which you want to set force sub bsdk chinal ki mat dalna.(without @)",
       "required": true,
-      "value": "GJ516_DISCUSS_GROUP"
+      "value": "gsyej"
     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
