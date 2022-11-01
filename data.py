@@ -8,8 +8,8 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("❣️ sᴜᴩᴩᴏʀᴛ ❣️", url="https://t.me/GJ516_DISCUSS_GROUP"),
-         InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url="https://t.me/Rishi_krd"),
+        [InlineKeyboardButton("❣️ sᴜᴩᴩᴏʀᴛ ❣️", url="https://t.me/gsyej"),
+         InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url="https://t.me/R_O_Y_A_L_R_A_J_P_U_T_0_7"),
         ],
     ]
 
@@ -19,6 +19,6 @@ Hᴇʏ {},
 Tʜɪs ɪs {},
 Aɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇᴅ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
-Sᴏᴜʀᴄᴇ : [ɢɪᴛʜᴜʙ](https://github.com/Spydyrkt/StringSession)
-Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [OFFICIAL](https://t.me/Spydyrkt) !
+Sᴏᴜʀᴄᴇ : [ɢɪᴛʜᴜʙ](https://https://github.com/Rajpomane)
+Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [OFFICIAL](https://github.com/Rajpomane) !
     """
