@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://te.legra.ph/file/2a001da0da57f3ccef26b.jpg" alt="StringGenerator">
+  <img src="https://telegra.ph/file/a23e56ed4af0ed92d62c1.jpg" alt="StringGenerator">
 </p>
 
 ### 🤖 STRING SESSION BOT
-  <a href="https://github.com/Spydyrkt"><img alt="Website" src="https://img.shields.io/badge/丂卩ㄚᗪ乇尺-red"></a>
+  <a href="https://github.com/Rajpomane"><img alt="Website" src="https://img.shields.io/badge/丂卩ㄚᗪ乇尺-red"></a>
  
-[![Stars](https://img.shields.io/github/stars/Spydyrkt/StringSession?style=social)](https://github.com/Spydyrkt/StringSession/stargazers)
-  [![Forks](https://img.shields.io/github/forks/Spydyrkt/StringSession?style=social)](https://github.com/Spydyrkt/StringSession/fork)
+[![Stars](https://img.shields.io/github/stars/Spydyrkt/StringSession?style=social)](https://github.com/Rajpomane/StringSession/stargazers)
+  [![Forks](https://img.shields.io/github/forks/Spydyrkt/StringSession?style=social)](https://github.com/Rajpomane/StringSession/fork)
 
 ### 📌 LANGUAGES AND TOOLS
 
@@ -45,7 +45,7 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 CREDITS
-- » [丂卩ㄚᗪ乇尺](https://github.com/Spydyrkt)
-- » [GABBAR](https://github.com/MrProgrammer72)
+- » [https://github.com/Rajpomane)
+- » [https://github.com/Rajpomane)
 - » [Pyrogram Devs](https://github.com/pyrogram) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 - » [LonamiWebs](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
