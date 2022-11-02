@@ -3,7 +3,7 @@
 </p>
 
 ### 🤖 STRING SESSION BOT
-  <a href="https://github.com/Rajpomane"><img alt="Website" src="https://img.shields.io/badge/𝐈𝛕ᷟ͢𝚣⃪ꙴ ⋆‌⃝⁣🥵🖤Hᴀᴄᴋᴇʀ Hᴇᴀʀᴛ❤️⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟𓆩᪵𓆪 ⏤͟͟͞➖⃟🥀-red"></a>
+  <a href="https://github.com/Rajpomane"><img alt="Website" src="https://img.shields.io/badge/hackerheart-red"></a>
  
 [![Stars](https://img.shields.io/github/stars/Spydyrkt/StringSession?style=social)](https://github.com/Rajpomane/StringSession/stargazers)
   [![Forks](https://img.shields.io/github/forks/Spydyrkt/StringSession?style=social)](https://github.com/Rajpomane/StringSession/fork)
